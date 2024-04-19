@@ -11,7 +11,7 @@
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
                     alt="css3" width="40" height="40" /> </a><a href="https://getbootstrap.com" target="_blank"
                 rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+                    src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png"
                     alt="bootstrap" width="40" height="40" /> </a><a href="https://tailwindcss.com/" target="_blank"
                 rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
                     alt="tailwind" width="40" height="40" /> </a><a
@@ -22,7 +22,7 @@
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
                     alt="react" width="40" height="40" /> </a><a href="https://nextjs.org/" target="_blank"
                 rel="noreferrer">
-                <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
+                <img src="https://images.ctfassets.net/23aumh6u8s0i/6pjUKboBuFLvCKkE3esaFA/5f2101d6d2add5c615db5e98a553fc44/nextjs.jpeg" alt="nextjs" width="40" height="40" />
             </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
                     alt="nodejs" width="40" height="40" /> </a> <a href="https://expressjs.com/" target="_blank"
