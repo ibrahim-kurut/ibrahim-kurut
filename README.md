@@ -4,9 +4,9 @@
 
 ### Connect with me:
 
-- [LinkedIn](https://linkedin.com/in/yourusername)
+- [LinkedIn](https://www.linkedin.com/in/ibrahimkurut/)
 
-
+<div style="background-color: #f4f4f9; padding: 20px; border-radius: 10px;">
 ### Languages and Tools:
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
@@ -23,6 +23,7 @@
   <img src="https://logowik.com/content/uploads/images/jira3124.jpg" alt="jira" width="40" height="40"/>
   <img src="https://www.itsallready.it/wp-content/uploads/2023/10/2-300x300.png" alt="trello" width="40" height="40"/>
 </p>
+</div>
 
 ---
 
