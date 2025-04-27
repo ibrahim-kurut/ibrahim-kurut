@@ -4,7 +4,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ibrahim Kurut - Frontend Developer</title>
 </head>
 
 <body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; padding: 0; background-color: #f4f4f9; color: #333; line-height: 1.6;">
@@ -14,12 +13,13 @@
         <h3 style="text-align: center; color: #2c3e50; font-size: 1.5rem; margin-top: 0;">A passionate frontend developer</h3>
 
 <!-- Social Links -->
+<!--
 <div style="display: flex; justify-content: center; gap: 15px; margin-top: 20px;">
     <a href="https://github.com/yourusername" target="_blank" style="text-decoration: none; color: #3498db; font-weight: bold;">GitHub</a>
     <a href="https://linkedin.com/in/yourusername" target="_blank" style="text-decoration: none; color: #3498db; font-weight: bold;">LinkedIn</a>
     <a href="https://twitter.com/yourusername" target="_blank" style="text-decoration: none; color: #3498db; font-weight: bold;">Twitter</a>
 </div>
-
+-->
 <!-- Tools Section -->
 <div style="margin-top: 30px;">
     <h3 style="text-align: center; color: #2c3e50; font-size: 1.5rem;">Languages and Tools:</h3>
