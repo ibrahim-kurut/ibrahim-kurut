@@ -1,5 +1,6 @@
-# Hi 👋, I'm Ibrahim Kurut ## A passionate full stack web developer ### Connect
-with me: - [LinkedIn](https://www.linkedin.com/in/ibrahimkurut/)
+# Hi 👋, I'm Ibrahim Kurut 
+## A passionate full stack web developer ### 
+Connect with me: - [LinkedIn](https://www.linkedin.com/in/ibrahimkurut/)
 
 <div align="center">
   <table style="background-color: #f4f4f9; padding: 20px; border-radius: 10px">
