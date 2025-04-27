@@ -30,6 +30,7 @@
     <td>
       <img src="https://logowik.com/content/uploads/images/nextjs2106.logowik.com.webp" alt="Next.js" width="40" height="40"/>
     </td>
+    <br/>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
     </td>
