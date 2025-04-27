@@ -4,62 +4,56 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Ibrahim Kurut - Frontend Developer</title>
 </head>
-<style>
-    body {
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    }
-</style>
 
-<body>
-    <h1 align="center">Hi 👋, I'm ibrahim kurut</h1>
-    <h3 align="center">A passionate frontend developer</h3>
+<body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; padding: 0; background-color: #f4f4f9; color: #333; line-height: 1.6;">
+    <div style="max-width: 800px; margin: 50px auto; padding: 20px; background: #fff; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+        <!-- Header -->
+        <h1 style="text-align: center; color: #2c3e50; font-size: 2.5rem; margin-bottom: 10px;">Hi 👋, I'm Ibrahim Kurut</h1>
+        <h3 style="text-align: center; color: #2c3e50; font-size: 1.5rem; margin-top: 0;">A passionate frontend developer</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<div class="box">
-    <p align="left">
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                alt="html5" width="40" height="40" /> </a><a href="https://www.w3schools.com/css/" target="_blank"
-            rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                alt="css3" width="40" height="40" /> </a><a href="https://getbootstrap.com" target="_blank"
-            rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-                alt="bootstrap" width="40" height="40" /> </a><a href="https://tailwindcss.com/" target="_blank"
-            rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-                alt="tailwind" width="40" height="40" /> </a><a
-            href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-                alt="javascript" width="40" height="40" />
-        </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-                alt="react" width="40" height="40" /> </a><a href="https://nextjs.org/" target="_blank"
-            rel="noreferrer">
-            <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
-        </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-                alt="nodejs" width="40" height="40" /> </a> <a href="https://expressjs.com/" target="_blank"
-            rel="noreferrer">
-            <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675637255386/f3a9a38b-116d-4b35-8f46-8d8abb78166f.png"
-                alt="mongodb" width="40" height="40" /> </a><a href="https://www.mongodb.com/" target="_blank"
-            rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-                alt="mongodb" width="40" height="40" /> </a>
-        <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img
-                src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
-                alt="illustrator" width="40" height="40" /> </a><a href="https://www.photoshop.com/en"
-            target="_blank" rel="noreferrer">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Adobe_Photoshop_Express_logo.svg/1051px-Adobe_Photoshop_Express_logo.svg.png"
-                alt="photoshop" width="40" height="40" /> </a>
-    </p>
+<!-- Social Links -->
+<div style="display: flex; justify-content: center; gap: 15px; margin-top: 20px;">
+    <a href="https://github.com/yourusername" target="_blank" style="text-decoration: none; color: #3498db; font-weight: bold;">GitHub</a>
+    <a href="https://linkedin.com/in/yourusername" target="_blank" style="text-decoration: none; color: #3498db; font-weight: bold;">LinkedIn</a>
+    <a href="https://twitter.com/yourusername" target="_blank" style="text-decoration: none; color: #3498db; font-weight: bold;">Twitter</a>
 </div>
 
+<!-- Tools Section -->
+<div style="margin-top: 30px;">
+    <h3 style="text-align: center; color: #2c3e50; font-size: 1.5rem;">Languages and Tools:</h3>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(80px, 1fr)); gap: 20px; justify-items: center;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+            alt="HTML5" style="width: 60px; height: 60px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+            alt="CSS3" style="width: 60px; height: 60px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+            alt="Bootstrap" style="width: 60px; height: 60px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS"
+            style="width: 60px; height: 60px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            alt="JavaScript" style="width: 60px; height: 60px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+            alt="React" style="width: 60px; height: 60px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js"
+            style="width: 60px; height: 60px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+            alt="Node.js" style="width: 60px; height: 60px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+            alt="MongoDB" style="width: 60px; height: 60px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
+            alt="Adobe Illustrator" style="width: 60px; height: 60px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Adobe_Photoshop_Express_logo.svg/1051px-Adobe_Photoshop_Express_logo.svg.png"
+            alt="Adobe Photoshop" style="width: 60px; height: 60px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+    </div>
+</div>
+
+<!-- Footer -->
+<footer style="text-align: center; margin-top: 30px; font-size: 0.9rem; color: #7f8c8d;">
+    Designed with ❤️ by <a href="https://github.com/yourusername" target="_blank" style="color: #3498db; text-decoration: none;">Ibrahim Kurut</a>
+</footer>
+</div>
 </body>
 
 </html>
