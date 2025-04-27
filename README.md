@@ -1,11 +1,11 @@
 # Hi 👋, I'm Ibrahim Kurut
 
-## A passionate frontend developer
+## A passionate full stack web developer
 
 ### Connect with me:
-- [GitHub](https://github.com/yourusername)
+
 - [LinkedIn](https://linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
+
 
 ### Languages and Tools:
 <p align="center">
@@ -19,9 +19,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Adobe_Photoshop_Express_logo.svg/1051px-Adobe_Photoshop_Express_logo.svg.png" alt="Adobe Photoshop" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn-oPr-onUJcXBEJmKzhv_zWHtJqw8kE-Lnw&s" alt="figma" width="40" height="40"/>
+  <img src="https://logowik.com/content/uploads/images/jira3124.jpg" alt="jira" width="40" height="40"/>
+  <img src="https://www.itsallready.it/wp-content/uploads/2023/10/2-300x300.png" alt="trello" width="40" height="40"/>
 </p>
 
 ---
 
-<p align="center"> Designed with ❤️ by [Ibrahim Kurut] </p>
+<p align="center"> Designed with ❤️ by Ibrahim Kurut </p>
