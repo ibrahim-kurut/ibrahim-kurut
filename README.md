@@ -24,4 +24,4 @@
 
 ---
 
-<p align="center"> Designed with ❤️ by [Ibrahim Kurut](https://github.com/yourusername) </p>
+<p align="center"> Designed with ❤️ by [Ibrahim Kurut] </p>
