@@ -2,7 +2,7 @@
 ## A passionate full stack web developer ### 
 Connect with me: - 
 [LinkedIn](https://www.linkedin.com/in/ibrahimkurut/)
-[my profile](https://ibrahim-kurut-protfolio.vercel.app/ )
+[my profile](https://ibrahimkurut.vercel.app/)
 
 <div align="center">
   <table style="background-color: #f4f4f9; padding: 20px; border-radius: 10px">
